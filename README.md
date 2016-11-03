@@ -6,4 +6,5 @@ Scenarios for log event
 
 Excercies
 
-* 1. 
+* 1. Build data structure
+* 2. Stats 
